@@ -30,7 +30,7 @@ I'm currently exploring:
 
 ## 📫 How to Reach Me
 
-- Email: [sundaresanv2004@gmail.com](sundaresanv2004@gmail.com)
+- Email: [sundaresanv2004@gmail.com]
 - LinkedIn: [@sundaresanv2004/](https://www.linkedin.com/in/sundaresanv2004/)
 - HackerRank: [@sundaresanv2004](https://www.hackerrank.com/profile/sundaresanv2004)
 - Website: [@sundaresanv.vercel.app](https://sundaresanv.vercel.app)
